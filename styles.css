@@ -89,3 +89,8 @@
  .service-grid{grid-template-columns:1fr}
  .service-card .visual{height:190px}
 }
+
+/* service card links + section footer */
+.card-link{display:block;text-decoration:none;color:inherit}
+.section-foot{margin-top:30px}
+.detail{scroll-margin-top:110px}
